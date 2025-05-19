@@ -41,8 +41,8 @@ Optimized NMT algo
 
 ## Related works
 Related works for developing a deeper understanding of INT are: <br>
-<p class="indented">[NeurIPS 2023] <a href="https://www.matthewtancik.com/nerf">Nonparametric Teaching for Multiple Learners</a>,</p>
-<p class="indented">[ICML 2023] <a href="https://www.matthewtancik.com/nerf">Nonparametric Iterative Machine Teaching</a>.<br></p>
+<p class="indented">[NeurIPS 2023] <a href="https://arxiv.org/pdf/2311.10318">Nonparametric Teaching for Multiple Learners</a>,</p>
+<p class="indented">[ICML 2023] <a href="https://arxiv.org/pdf/2306.03007">Nonparametric Iterative Machine Teaching</a>.<br></p>
 
 ## Citation
 If you find our work useful in your research, please cite:
